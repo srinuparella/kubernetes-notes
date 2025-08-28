@@ -36,3 +36,4 @@ Architecture = the diagram/design explaining how the cluster is structured.
 Cluster = your actual office with employees working.
 
 Architecture = the office blueprint showing where departments and teams sit.
+------------------------------------------------------------------------------
