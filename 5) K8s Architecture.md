@@ -87,7 +87,7 @@ Instead, it manages Pods, and inside those Pods live the actual containers (run 
 5. kube-proxy ensures networking between pods/services.  
 6. Controllers keep monitoring → correct drift & maintain desired state.  
 
--------------------------------------------------------------------ooooooooooooooooooo
+-----------------------------------------------------------------------------
 
 In Short:
 
@@ -126,3 +126,4 @@ containerd = Engine 🚀 (runs the actual containers)
 🐳 Container (Actual Application)
 
 👉 This shows flow from Brain → Hands → Pods → Containers in a simple way.
+-----------------------------------------------------------------------------
