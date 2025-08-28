@@ -71,4 +71,4 @@ Container = Each Student (actual individual)
 
 👉 Flow: School → Classroom → Group → Student
 👉 Flow in K8s: Cluster → Node → Pod → Container
---------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
