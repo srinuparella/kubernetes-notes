@@ -12,7 +12,7 @@ It is designed to automate:
 
 of **containerized applications** across a **cluster of nodes**.  
 
-👉 Kubernetes provides a **consistent and reliable** way to manage applications, whether they run **on-premises, in the cloud, or in hybrid environments**.
+👉 Kubernetes provides a **consistent and reliable** way to manage applications, whether they run **on-premises, or in the cloud, or in hybrid environments**.
 
 ---
 
