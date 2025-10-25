@@ -11,7 +11,7 @@
     -   **Docker Hub** → Search `mysql` image → Pull image → Run
         container.
   
- '''
+
     ``` bash
     docker run -d -p 3306:3306    -e MYSQL_ROOT_PASSWORD=srinu    -e MYSQL_DATABASE=employee    -e MYSQL_USER=SrinuParella    -e MYSQL_PASSWORD=SrinuParella    --name sqlcontainer mysql:latest
     ```
